@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "name": "Sigit",
+      "email": "sigit@rocketmail.com",
+      "role": "Data Engineer"
+    },
+    {
+      "_id": 2,
+      "name": "Purnomo",
+      "email": "purnomo@rocketmail.com",
+      "role": "Data Lake Engineer"
+    },
+    {
+      "_id": 3,
+      "name": "Henry",
+      "email": "henry@yahoomail.com",
+      "role": "ETL Engineer"
+    },
+    {
+      "_id": 4,
+      "name": "Amanda",
+      "email": "amanda@yahoomail.com",
+      "role": "Document Control"
+    },
+    {
+      "_id": 5,
+      "name": "Dex",
+      "email": "dex@yahoo.com",
+      "role": "Data Analyst"
+    }
+  ]
+}
